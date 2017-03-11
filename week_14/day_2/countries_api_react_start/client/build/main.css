@@ -1,0 +1,25 @@
+body {
+
+}
+
+h2 {
+  text-align: center;
+  color: tomato;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/World_borders_lamb_azi.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+h4 {
+  color: dodgerBlue;
+  text-align: center;
+}
